@@ -1,7 +1,7 @@
 ### Welcome
 
 ### My Page
-Click [here](https://jasonadindu.github.io/test/) to play 
+Click [here](https://jasonadindu.github.io/website/) to play 
 
 <br />
 
